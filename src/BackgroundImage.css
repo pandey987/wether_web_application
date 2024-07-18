@@ -1,0 +1,13 @@
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvmvfQGnZOPZ0s2dgGwYzFN_JxvNGCdwcxQ&s'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    opacity: .8; /* Adjust the opacity to make the background less distracting */
+  }
+  

@@ -1,0 +1,6 @@
+.forecast-container {
+    display: flex;
+    justify-content: space-around; /* Distribute items evenly with space around them */
+    flex-wrap: wrap; /* Allow wrapping to multiple lines if needed */
+  }
+  
